@@ -12,3 +12,5 @@ jai modifié qqchose pares avoir add master a github
 oissfjiosdjfas
 
 jai changé dans pc1 apres avoir créer pc1 et pc2
+
+je veus tester git pull de pc2 a pc1
