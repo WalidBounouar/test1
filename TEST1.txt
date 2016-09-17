@@ -15,4 +15,4 @@ jai changé dans pc1 apres avoir créer pc1 et pc2
 
 je veus tester git pull de pc2 a pc1
 
-je veux test les conflits: 456
+Solution de conflit: 123456
